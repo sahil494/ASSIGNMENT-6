@@ -9,7 +9,7 @@ class child extends Parent
 {
 void value()
 {
-Super.value();
+super.value();
 System.out.println("Enter in child class");
 }
 }
